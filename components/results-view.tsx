@@ -77,7 +77,7 @@ export default function ResultsView({ query, onBack }: ResultsViewProps) {
             <SearchResultCard
               url="1825fund.com"
               title="Fund Manager | 1825 Fund"
-              description="Co-founded and managing a non-dilutive grant fund dedicated to empowering student entrepreneurs aged 18-25. Overseeing the deal-flow pipeline, evaluating student-led startups for potential grant allocation. Currently working on a collaboration with Government Incubator."
+              description="We give non-dilutive grants of upto $500 to builders under 25"
               link="https://1825fund.com"
             />
             <SearchResultCard
