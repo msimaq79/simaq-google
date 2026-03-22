@@ -86,11 +86,7 @@ export default function ResultsView({ query, onBack }: ResultsViewProps) {
               description="Building a specialized digital marketplace and toolset for the maritime industry to solve brokerage inefficiencies. Conducted extensive market research and established a network of industry professionals to validate product-market fit. Developed the MVP and waitlist page. Among top 50 teams flown out to Bangalore to pitch startup idea to Shark Tank India judge."
               link="https://shipbroker.io"
             />
-            <SearchResultCard
-              url="sydenham.edu"
-              title="Sydenham College - BMS Student & Incubation Head"
-              description="Bachelor of Management Studies (June 2025 - May 2028). Incubation Head at E-Cell, establishing college's incubation center from ground up. Setting up legal and operational frameworks, developing mentorship pipelines, and connecting industry experts with student ventures from ideation to market launch."
-            />
+
             <SearchResultCard
               url="codecraftt.in"
               title="Founder | CodeCraftt Developers"
